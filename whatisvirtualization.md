@@ -26,11 +26,12 @@
 
 ## hypervisor 사용방식에 따른 분류
 
-* type1
+* **type1**
     * 일반적으로 하이퍼바이저(Hypervisor)형 가상화 또는 Bare metal 이라고 불림.
     * 하이퍼바이저를 하드웨어상에 직접 동작 시키는 방식.
     * 호스트형 가상화에 비행 오버헤드가 적음.
     * 별도의 관리 프로그램이 필요.
+
 ![](http://cfs2.tistory.com/image/5/tistory/2008/10/07/22/13/48eb6079143ef)
 
 ![](https://i0.wp.com/blog.pasion.kr/wp-content/uploads/2014/09/VMware-ESXi-2.jpg?zoom=2&resize=261%2C146&ssl=1)
@@ -41,10 +42,11 @@
 
 ![](https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/xen/graphics/xenlogo.gif)
 
-* type2
+* **type2**
     * 일반적으로 호스트(Hosted)형 가상화라고 불림.
     * 하이퍼바이저를 하드웨어상의 hostOS 위에 동작 시키는 방식.
     * type1에 비해 오버헤드가 큼.
+
 ![](http://cfs2.tistory.com/image/8/tistory/2008/10/07/22/13/48eb60788b674)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Virtualbox_logo.png/200px-Virtualbox_logo.png)
@@ -55,6 +57,6 @@
 
 ---
 
-[가상화란?](http://www.goodus.com/knowledge_pds/1%ED%99%94_%EA%B0%80%EC%83%81%ED%99%94%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80(3).pdf) <br>
+[가상화란?](https://en.wikipedia.org/wiki/Virtualization) <br>
 [타입에 따른 분류](http://virtualhive.tistory.com/22) <br>
 [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
