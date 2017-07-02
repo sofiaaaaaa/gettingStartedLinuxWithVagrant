@@ -1,4 +1,3 @@
-# Fundamental Linux for Developer
+# Getting Started Linux with Vagrant
 
-
-![](http://www.empowerandinspire.es/images/cursos/formacion-linux-960-350.jpg)
+![](http://aruizca.com/content/images/vagrant-virtualbox-ubuntu-post-title.png)
