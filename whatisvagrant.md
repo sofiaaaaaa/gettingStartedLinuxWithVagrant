@@ -12,12 +12,14 @@
 
 ![](https://sysadmincasts.com/static/extra/42-vagrant-use-cases.gif)
 
+## 작동방식
+
 ![](https://sysadmincasts.com/static/extra/42-vagrant-workflow.png)
 
 ### Link
 
 ---
 
-[vagrant wikipedia](https://en.wikipedia.org/wiki/Vagrant_(software)) <br>
+<a href="https://en.wikipedia.org/wiki/Vagrant_(software)">Vagrant란?</a> <br>
 
 [vagrant homepage](https://www.vagrantup.com)
